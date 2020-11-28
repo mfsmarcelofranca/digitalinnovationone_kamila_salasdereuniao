@@ -11,4 +11,6 @@ Aula da Digital Innovation One com a especialista kamila Santos
 #### Foi desenvolvida uma SPA utilizando o Angular
 #### Foram criados os componentes para adicionar, listar, detalhes, atualizar e excluir dados da tabela criada no backEnd
 
-
+##### Instalação:
+##### O backend -> pasta: raiz do projeto
+##### O frontend -> pasta: front_angular/client-room 
